@@ -1,0 +1,57 @@
+a {
+	text-decoration: none;
+}
+ul {list-style: none;   
+}
+header a {
+	color: black;
+}
+header nav a {
+	color: #707070;
+	font-size: 20px	
+}
+ header {
+ 	margin-bottom: 107px;
+ 	margin-top: 73px;
+ }
+.main {
+	max-width:1640px ;
+	height: 614px;
+	margin-right: 140px;
+	margin-left: 140px
+}
+h1 {font-size: 40px;
+	color: #707070;
+}
+
+.jazzman {
+	width: 483px;
+	height: 282px;
+	margin-left: 140px;
+	padding-top: 70px;
+}
+.rockman {
+	width: 483px;
+	height: 282px;
+	margin-left: 140px;
+	padding-top: 70px;
+}
+footer {
+	background-color: #2E2E2E;
+}
+footer p {
+	color: #F2F2F2;
+	font-size: 20px;
+}
+footer a {
+	color:#F2F2F2; 
+	font-size: 13px;
+}
+.map {
+	margin-left: 38px;
+}
+div {
+	margin-left: 1350px;
+}
+
+
